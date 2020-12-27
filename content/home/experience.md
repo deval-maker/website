@@ -22,6 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Summer Research Assistant
+    company: HCII, Carnegie Mellon University
+    company_url: 'https://www.chrisharrison.net/index.php/Research/EduSense'
+    location: Pittsburgh, PA
+    date_start: '2020-05-01'
+    date_end: '2015-09-14'
+    description: Created 3D digital-twin of classrooms (instrumentation free) to provide 6DOF Gaze for students and the teacher in real-time.
+    
   - title: Robotics Engineer
     company: Aitech Robotics and Automation Pte. Ltd.
     company_url: 'https://aitech-robotics.com/'

@@ -6,7 +6,7 @@ title: Deval Shah
 superuser: true
 
 # Role/position/tagline
-role: Graduate student
+role: Roboticist | Maker | Innovator
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -70,6 +70,6 @@ email: "devals@andrew.cmu.edu"
 highlight_name: false
 ---
 
-I am Deval, graduate student at Carnegie Mellon University. 
+I am Deval, graduate student at Robotics Institute, Carnegie Mellon University. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/deval_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
